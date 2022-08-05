@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56a3afd5-6078-4a5b-99e2-76a0d78516f4": {
+      "ProjectGuid": "56a3afd5-6078-4a5b-99e2-76a0d78516f4",
+      "DisplayName": "ConsoleUsersInterface",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

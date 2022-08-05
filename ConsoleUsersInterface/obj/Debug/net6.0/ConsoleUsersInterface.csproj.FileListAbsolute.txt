@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\bin\Debug\net6.0\ConsoleUsersInterface.exe
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\bin\Debug\net6.0\ConsoleUsersInterface.deps.json
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\bin\Debug\net6.0\ConsoleUsersInterface.runtimeconfig.json
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\bin\Debug\net6.0\ConsoleUsersInterface.dll
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\bin\Debug\net6.0\ConsoleUsersInterface.pdb
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.AssemblyInfo.cs
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.dll
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ref\ConsoleUsersInterface.dll
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.pdb
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\ConsoleUsersInterface.genruntimeconfig.cache
+C:\Users\pc\source\repos\SolutionBank\ConsoleUsersInterface\obj\Debug\net6.0\refint\ConsoleUsersInterface.dll
